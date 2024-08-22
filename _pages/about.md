@@ -9,9 +9,12 @@ profile:
   image: logo.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Nicholas Mattei</p>
+    <p>6823 St. Charles Ave.</p>
+    <p>Tulane University</p>
+    <p>Department of Computer Science</p>
+    <p> 303 Stanley Thomas Hall</p>
+    <p>New Orleans, LA 70118</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
