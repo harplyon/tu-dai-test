@@ -7,8 +7,15 @@ nav: true
 nav_order: 7
 
 profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
+  # Template:
+ #- align: right
+ #  image: YOUR IMAGE FILENAME HERE
+ #  content: people/YOUR_NAME_HERE.md
+ #  image_circular: true
+ #  more_info: >
+ #    <p>Your Position (i.e. PhD Student)</p>
+ #    <p>youremail@tulane.edu</p>
+ # ++++++ FACULTY ++++++  
   - align: right
     image: nick.jpg
     content: people/nick_mattei.md
@@ -17,6 +24,8 @@ profiles:
       <p>555 your office number</p>
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
+# ++++++ POSTDOCS ++++++
+# ++++++ GRADUATE STUDENTS ++++++
   - align: right
     image: hlyon.jpg
     content: people/harper_lyon.md
@@ -25,6 +34,7 @@ profiles:
       <p>555 your office number</p>
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
+# ++++++ UNDERGRADUATES ++++++
   - align: right
     image: Nicole.jpeg
     content: people/nicole_smithvaniz.md
