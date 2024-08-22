@@ -30,16 +30,14 @@ profiles:
     content: people/harper_lyon.md
     image_circular: true
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>PhD Student</p>
+      <p>hlyon <@> tulane.edu</p>
 # ++++++ UNDERGRADUATES ++++++
   - align: right
     image: Nicole.jpeg
     content: people/nicole_smithvaniz.md
     image_circular: true
     more_info: >
-      <p>55 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Undergraduate</p>
+      <p>nsmithvaniz <@> tulane.edu</p>
 ---
