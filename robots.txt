@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://harplyon.github.io/tu-dai-test//sitemap.xml
+Sitemap: https://tu-dai.github.io/sitemap.xml
