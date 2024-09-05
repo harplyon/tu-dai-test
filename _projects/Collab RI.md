@@ -2,7 +2,7 @@
 layout: page
 title: Collaborative Research RI Small Modeling and Learning Ethical Principles for Embedding into Group Decision Support Systems
 description: 
-img: assets/img/image (1).jpeg
+img: assets/img/image (2).jpeg
 importance: 2
 category: work
 related_publications: false
