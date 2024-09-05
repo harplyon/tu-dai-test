@@ -2,7 +2,7 @@
 layout: page
 title: III Medium Collaborative Research Fair Recommendation Through Social Choice
 description: 
-img: assets/img/image (2).jpeg
+img: assets/img/image (1).jpeg
 importance: 3
 category: work
 ---
