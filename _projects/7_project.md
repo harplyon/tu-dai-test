@@ -2,7 +2,7 @@
 layout: page
 title: Making Better Decisions A Proposal for Human-Centered Computational Social Choice using Artificial Intelligence and Data
 description: 
-img: assets/img/image (5).jpg
+img: assets/img/image (5).png
 importance: 4
 category: work
 related_publications: false

@@ -2,7 +2,7 @@
 layout: page
 title: NSF-BSF RI Small Mechanisms and Algorithms for Improving Peer Selection
 description: 
-img: assets/img/image (4).jpg
+img: assets/img/image (4).png
 importance: 3
 category: work
 ---
