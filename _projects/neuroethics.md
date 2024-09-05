@@ -2,7 +2,7 @@
 layout: page
 title: Neuroethics in Novel Neurotechnologies
 description: 
-img: assets/img/background1.jpg
+img: assets/img/background1.jpeg
 importance: 1
 category: work
 related_publications: false
