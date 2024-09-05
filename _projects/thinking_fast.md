@@ -2,7 +2,7 @@
 layout: page
 title: Thinking Fast and Slow in AI
 description:
-img: assets/img/projects-tfsai.jpeg
+img: assets/img/image (5).jpeg
 importance: 1
 category: work
 related_publications: false
